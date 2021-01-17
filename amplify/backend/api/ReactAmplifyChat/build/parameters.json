@@ -1,0 +1,8 @@
+{
+    "CreateAPIKey": 1,
+    "AppSyncApiName": "ReactAmplifyChat",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "S3DeploymentBucket": "amplify-reactamplifychat-staging-12922-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/fd6fdb2fdc82f243acef9675e1a41dd2e28d938c"
+}
