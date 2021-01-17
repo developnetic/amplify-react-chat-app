@@ -1,0 +1,10 @@
+body {
+  background-color: #1f1f1f;
+}
+
+.text-entry-box {
+  position: absolute;
+  bottom: 5px;
+  width: 99%;
+  border-radius: 5px;
+}
